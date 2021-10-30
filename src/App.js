@@ -13,7 +13,7 @@ export default function App() {
 
       <div className="dataContainer">
         <div className="header">
-        👋 Hey there!
+        👋 Yo yo this is Carlos
         </div>
 
         <div className="bio">
